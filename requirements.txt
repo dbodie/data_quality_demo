@@ -1,0 +1,4 @@
+pandas
+notebook
+openai
+python-dotenv
